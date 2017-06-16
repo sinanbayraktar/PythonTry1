@@ -2,7 +2,7 @@
 
 My personal effort
 
-First python try after watch a video about it
+First python try after watching a video
 
 Inheritance and polymorphism is used. One superclass and one subclass
 

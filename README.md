@@ -1,4 +1,4 @@
-# PythonTry1
+# PythonTry1-inheritance-
 
 My personal effort
 
